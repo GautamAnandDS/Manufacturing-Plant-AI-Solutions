@@ -3,7 +3,11 @@
 **AI Agent Factory** is a Streamlit-based web application that leverages **LangGraph** and **Gemini LLM** to help businesses calculate **production efficiency**, estimate **downtime costs**, manage **inventory reordering**, and fetch **external data** like stock prices and weather. The agent uses a **ReAct-style reasoning approach** to dynamically choose tools and provide multi-step answers.
 
 ---
+## Screenshots
+![alt text](<Screenshot 2025-10-03 121404.png>)
 
+![alt text](<Screenshot 2025-10-03 121552.png>)
+---
 ## 🚀 Features
 
 * **Production Efficiency Calculation**

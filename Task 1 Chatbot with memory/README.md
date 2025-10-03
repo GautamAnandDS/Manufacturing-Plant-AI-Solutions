@@ -7,6 +7,9 @@ This is a **Streamlit-based chatbot** designed for manufacturing operations. It 
 The bot provides **structured answers** for common queries and can also generate natural language responses using **Gemini Pro** via Google AI Studio.
 
 ---
+## Screenshots
+![alt text](<Screenshot 2025-10-03 181255.png>)
+---
 
 ## Features
 

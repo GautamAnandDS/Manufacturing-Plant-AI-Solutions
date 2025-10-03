@@ -1,4 +1,5 @@
 # AI Solutions in Manufacturing Plant
+![alt text](Home.png)
 
 Welcome to the **AI Solutions in Manufacturing Plant**! This repository contains solutions for three exciting AI tasks, showcasing implementations ranging from memory-enabled chatbots to advanced document question-answering systems. Each task is organized in its own folder with a dedicated README detailing the implementation, usage, and instructions.
 

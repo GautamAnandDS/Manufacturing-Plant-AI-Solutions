@@ -18,7 +18,9 @@ This project implements a **Retrieval-Augmented Generation (RAG) system** that a
 * Cached vectorstore for faster repeated queries.
 
 ---
-
+## Screenshots
+![alt text](<Screenshot 2025-10-03 183959.png>)
+---
 ## Folder Structure
 
 ```
